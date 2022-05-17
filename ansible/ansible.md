@@ -1,0 +1,10 @@
+#1、安装软件
+![img.png](img.png)
+#2、配置环境
+![img_1.png](img_1.png)
+#3、无密访问
+![img_2.png](img_2.png)
+#4、测试连通性
+![img_3.png](img_3.png)
+#5、批量执行命令
+![img_5.png](img_5.png)
