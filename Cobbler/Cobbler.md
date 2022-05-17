@@ -1,0 +1,15 @@
+#环境准备
+![img.png](img.png)
+#检查环境
+![img_1.png](img_1.png)
+#生成默认密码
+![img_2.png](img_2.png)
+#修改dhcp文件
+![img_3.png](img_3.png)
+#上传镜像
+![img_4.png](img_4.png)
+#测试
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
